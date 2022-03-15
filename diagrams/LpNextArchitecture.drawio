@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T19:19:14.259Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="hQjLPJCI1Naz58y5vOI8" version="16.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T19:43:09.018Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="EPh9JRjP3Ti623P04sVr" version="16.6.3" type="github">
   <diagram id="6thAdPjS7A8F6nOXeu-O" name="Architecture">
     <mxGraphModel dx="2414" dy="3136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -288,14 +288,11 @@
         <mxCell id="aJg2sd6ix5H9_igBOGMG-52" value="WS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="aJg2sd6ix5H9_igBOGMG-44">
           <mxGeometry x="115" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aJg2sd6ix5H9_igBOGMG-53" value="Logging" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="aJg2sd6ix5H9_igBOGMG-44">
+        <mxCell id="aJg2sd6ix5H9_igBOGMG-126" value="UI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="aJg2sd6ix5H9_igBOGMG-44">
           <mxGeometry x="115" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aJg2sd6ix5H9_igBOGMG-54" value="Monitoring" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="aJg2sd6ix5H9_igBOGMG-44">
+        <mxCell id="aJg2sd6ix5H9_igBOGMG-127" value="Auth" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="aJg2sd6ix5H9_igBOGMG-44">
           <mxGeometry x="115" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="aJg2sd6ix5H9_igBOGMG-55" value="Tracking" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="aJg2sd6ix5H9_igBOGMG-44">
-          <mxGeometry x="115" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aJg2sd6ix5H9_igBOGMG-56" value="Global&lt;br&gt;DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="aJg2sd6ix5H9_igBOGMG-43">
           <mxGeometry x="145" y="680" width="60" height="80" as="geometry" />
